@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/count-number-of-nice-subarrays/?envType=daily-question&envId=2024-06-22
 # Given an array of integers nums and an integer k. A continuous subarray is called nice if there are k odd numbers on it.
 # Return the number of nice sub-arrays.
 
